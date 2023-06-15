@@ -3,8 +3,8 @@
 
 
 /**
- * main - A program with puts function
- * return 0.
+ * main - A program with puts function.
+ * Return 0.
  */
 
 int main (void)
